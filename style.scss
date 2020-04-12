@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+.slider{
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+}
+.slide{
+    margin: 24px;
+}
+.first-line{
+    h1{
+        font-size: 18px;
+        font-family: "Poppins";
+        color: rgb(48, 48, 48);
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 1.065;
+        text-align: center;
+        margin-top: 65px;
+      }  
+      .svg{
+          position: absolute;
+          top: 40px;
+          left: 1330px;
+      }   
+}
+.second-line{
+        font-size: 86px;
+        font-family: "Poppins";
+        color: rgb(0, 0, 0);
+        text-transform: uppercase;
+        line-height: 1.047;
+        text-align: center;
+        width: 1030px;
+        margin: auto;
+        font-weight: 600;
+
+}
